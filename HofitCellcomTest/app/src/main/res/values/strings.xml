@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HofitCellcomTest</string>
+    <string name="no_country_found">no country found</string>
+</resources>
